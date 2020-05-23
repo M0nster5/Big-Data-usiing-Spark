@@ -1,0 +1,20 @@
+              
+creating 1 byte block: 0.000002 sec, writing 0 blocks 0.000352 sec
+File pokes _mean=1.0452747344970703e-07, file _std=9.849229322746712e-07
+Memory pokes _mean=1.0202646255493164e-07, Memory _std=7.585273479590038e-07
+              
+creating 1 byte block: 0.000001 sec, writing 1000 blocks 0.001500 sec
+File pokes _mean=1.3143086433410645e-05, file _std=7.345202737730224e-06
+Memory pokes _mean=1.469874382019043e-07, Memory _std=5.137168238377684e-07
+              
+creating 1000000 byte block: 0.000091 sec, writing 1 blocks 0.000652 sec
+File pokes _mean=1.4172475337982177e-05, file _std=5.446608578771884e-06
+Memory pokes _mean=2.1478891372680663e-07, Memory _std=1.0387207495978728e-06
+              
+creating 1000000 byte block: 0.000024 sec, writing 1000 blocks 0.530612 sec
+File pokes _mean=0.00029727638244628907, file _std=0.0015716643172196932
+Memory pokes _mean=2.644245624542236e-06, Memory _std=1.54177653332994e-05
+              
+creating 1000000 byte block: 0.000034 sec, writing 10000 blocks 5.416808 sec
+File pokes _mean=0.0005468830966949463, file _std=0.000543850387092491
+Memory pokes _mean=3.529822826385498e-06, Memory _std=1.9532084452261735e-05
